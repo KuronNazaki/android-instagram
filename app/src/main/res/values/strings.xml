@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="instagram_username_placeholder">Username</string>
+    <string name="instagram_password_placeholder">Password</string>
+    <string name="instagram_login_button">Log in</string>
+    <string name="instagram_or_text">OR</string>
+    <string name="login_with_facebook_text">Log in with Facebook</string>
+    <string name="facebook_login_button">LOG IN</string>
+    <string name="facebook_email_placeholder">Email or Phone</string>
+    <string name="facebook_password_placeholder">Password</string>
+    <string name="facebook_sign_up_message">Sign Up for Facebook</string>
+    <string name="facebook_forgot_password_message">Forgot Password?</string>
+</resources>
